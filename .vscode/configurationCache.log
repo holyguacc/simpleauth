@@ -1,1 +1,0 @@
-{"buildTargets":["migratecreateinit","migratedown","migrateup","mock","postgres","psqlexec","sqlc","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
