@@ -44,7 +44,7 @@ To ask server to send verification code again
 
 ## Forgot Password
 **/forgot?username={username}**
-Send an email to user registered email with a code that need to be sent back with a new password
+Sends an email to user registered email with a code that need to be sent back with a new password
 
 ## ResetPassword
 /resetpassword?code={code}
